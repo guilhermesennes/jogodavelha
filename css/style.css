@@ -1,0 +1,35 @@
+#tabela{
+    width:723px;
+    height:720px;
+    border:solid 3px;
+    margin-left: 360px;
+	margin-top: 90px;
+}
+
+
+.linha{
+    height:240px;
+    border-bottom:solid 1px;
+
+}
+ 
+.casa{
+    width:240px;
+    height:100%;
+    border-right:solid 1px;
+    float:left;
+}
+#cross{
+	width: 95px;
+	height: 95px;
+	background-image: url(../images/cross.svg);
+}
+#circle{
+	width:70px;
+	height: 70px;
+	background-image: url(../images/circle.svg);
+}
+
+
+
+
